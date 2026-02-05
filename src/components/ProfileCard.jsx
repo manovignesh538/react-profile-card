@@ -7,7 +7,7 @@ function ProfileCard() {
 
       <img
         className="profile-img"
-        src="https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250s"
+        src="https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250s?id=11"
         alt="profile"
       />
 

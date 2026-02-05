@@ -1,13 +1,13 @@
 function Skills() {
-    return (
-      <div className="skills">
-        <span>React</span>
-        <span>Spring</span>
-        <span>JavaScript</span>
-        <span>Node</span>
-      </div>
-    );
-  }
-  
-  export default Skills;
-  
+  const skills = ["React", "Node", "UI/UX", "Testing"];
+
+  return (
+    <div className="skills">
+      {skills.map((skill, index) => (
+        <span key={index}>{skill}</span>
+      ))}
+    </div>
+  );
+}
+
+export default Skills;

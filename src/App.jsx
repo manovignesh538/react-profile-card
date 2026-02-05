@@ -1,10 +1,10 @@
 import "./App.css";
-import ProfileCard from "./components/ProfileCard";
+import TeamCard from "./components/TeamCard";
 
 function App() {
   return (
     <div className="container">
-      <ProfileCard />
+      <TeamCard />
     </div>
   );
 }
