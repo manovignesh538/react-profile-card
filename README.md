@@ -1,45 +1,45 @@
-# React cding challenges
+# React Profile Card
 
-## Profile Card Layout
+A simple and clean profile card UI built using React and CSS.
 
-Build a clean profile card UI using React components and CSS.
-
-Create a profile card that shows:
+## 📌 Features
 - Profile picture
-- Name
-- Job title
+- Name and job role
 - Short bio
-- Skills/tags section
-- Contact info (email + location)
-- Identify the component structure
+- Skills section
+- Contact information
+- Responsive and clean design
 
-**Specifications**
+## 🚀 Tech Used
+- React
+- Vite
+- CSS
 
-Profile Card
-- Centered on screen
-- Rounded corners
-- Shadow
-- Max width: 350px
-- Clean spacing
+## ▶️ How to Run Project
 
-Profile Image
-- Circle image
-- Centered
-- Slight border
-
-Skills Section
-- Small rounded badges
-- Light background color
-- Inline layout
-
-Sample Data
-```text
-Name: John Smith  
-Role: Frontend Developer  
-Bio: Passionate about building clean UI and learning React.  
-Skills: React, CSS, JavaScript, Figma  
-Email: john@email.com  
-Location: New York
+1. Clone the repository
+```
+git clone https://github.com/manovignesh538/react-profile-card.git
 ```
 
-![Screenshot](./screeenshots/profile.png)
+2. Go to project folder
+```
+cd react-profile-card
+```
+
+3. Install dependencies
+```
+npm install
+```
+
+4. Run project
+```
+npm run dev
+```
+
+## 📷 Screenshot
+(Add screenshot here later)
+
+---
+
+⭐ This is a beginner React UI project for practice.
